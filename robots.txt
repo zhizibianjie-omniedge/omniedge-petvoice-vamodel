@@ -1,0 +1,115 @@
+# robots.txt for PetVoice VA Model Project
+# Last updated: 2025-10-27
+
+User-agent: *
+Allow: /
+
+# 允许所有搜索引擎访问
+Allow all major search engines to crawl the entire site
+
+# 重要文件和页面
+Allow: /README.md
+Allow: /README_EN.md
+Allow: /docs/
+Allow: /examples/
+Allow: /src/
+Allow: /assets/
+
+# 特别允许论文相关页面
+Allow: /docs/paper/
+Allow: /docs/paper/arxiv-2510-12819.md
+Allow: /docs/paper/valence-arousal-model.md
+Allow: /docs/paper/multitask-learning.md
+
+# 允许商业合作页面
+Allow: /docs/business/
+Allow: /docs/business/omni-edge-team.md
+Allow: /docs/business/data-collaboration.md
+
+# 允许技术文档
+Allow: /docs/technical/
+Allow: /docs/dataset/
+
+# 允许示例代码
+Allow: /examples/
+
+# 不允许访问的敏感文件
+Disallow: /.git/
+Disallow: /__pycache__/
+Disallow: /.gitignore
+Disallow: /LICENSE
+Disallow: /node_modules/
+Disallow: /.env
+Disallow: /temp/
+Disallow: /tmp/
+Disallow: /*.pyc
+Disallow: /*.pyo
+Disallow: /*.log
+
+# 不允许访问大的二进制文件
+Disallow: /*.pth
+Disallow: /*.pt
+Disallow: /*.pkl
+Disallow: /*.h5
+Disallow: /*.hdf5
+Disallow: /*.zip
+Disallow: /*.tar.gz
+Disallow: /*.rar
+
+# 不允许访问配置文件
+Disallow: /*.config
+Disallow: /*.cfg
+Disallow: /*.ini
+
+# 站点地图位置
+Sitemap: https://github.com/zhizibianjie-omniedge/omniedge-petvoice-vamodel/sitemap.xml
+Sitemap: https://gitee.com/omniedge/omniedge-petvoice-vamodel/sitemap.xml
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+# 特殊搜索引擎指令
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0.5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yandexbot
+Allow: /
+Crawl-delay: 1
+
+# 社交媒体爬虫
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# 开发者工具爬虫
+User-agent: GitHubCopilot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /

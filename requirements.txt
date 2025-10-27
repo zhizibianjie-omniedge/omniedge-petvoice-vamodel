@@ -1,0 +1,48 @@
+# PetVoice VA Model - Core Dependencies
+# 基础依赖 | Core Dependencies
+
+# 深度学习框架 | Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers库 | Transformers Library
+transformers>=4.30.0
+tokenizers>=0.13.0
+
+# 音频处理 | Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.10.0
+
+# 数据处理 | Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# 可视化 | Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# 工具库 | Utility Libraries
+tqdm>=4.65.0
+click>=8.1.0
+pyyaml>=6.0
+h5py>=3.8.0
+
+# 数学和科学计算 | Math and Scientific Computing
+scipy>=1.10.0
+sympy>=1.12.0
+
+# 配置管理 | Configuration Management
+hydra-core>=1.3.0
+omegaconf>=2.3.0
+
+# 日志和监控 | Logging and Monitoring
+wandb>=0.15.0
+tensorboard>=2.13.0
+
+# 性能优化 | Performance Optimization
+accelerate>=0.20.0
+deepspeed>=0.9.0

@@ -1,0 +1,169 @@
+# GitHub Pages configuration for PetVoice VA Model Project
+# SEO优化配置
+
+# 站点基本信息
+title: "PetVoice VA Model - 宠物情感识别的革命性突破"
+description: "超越离散分类：基于多任务效价-唤醒度建模的宠物发声分析。首个宠物发声连续情感空间模型，VA相关性达0.9024，大规模42,553样本数据集。"
+url: "https://zhizibianjie-omniedge.github.io"
+baseurl: "/omniedge-petvoice-vamodel"
+
+# SEO元信息
+author: "Junyao Huang, Rumin Situ - 智子边界 (OmniEdge) 团队"
+keywords:
+  - "pet emotion recognition"
+  - "valence arousal model"
+  - "animal vocalization analysis"
+  - "AI pet translator"
+  - "deep learning for pets"
+  - "multimodal pet AI"
+  - "宠物情感识别"
+  - "效价唤醒度模型"
+  - "宠物发声分析"
+  - "AI宠物翻译器"
+  - "深度学习宠物应用"
+  - "Audio Transformer"
+  - "multi-task learning"
+  - "arxiv:2510.12819"
+  - "智子边界"
+  - "OmniEdge"
+
+# 语言设置
+lang: zh-CN
+languages: ["zh", "en"]
+
+# 社交媒体和联系信息
+social:
+  name: "智子边界 (OmniEdge) 团队"
+  links:
+    - https://gitee.com/omniedge
+    - https://github.com/zhizibianjie-omniedge
+  wechat: "15915756011"
+
+# 技术信息
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Jekyll SEO Tag 插件配置
+twitter:
+  username: omniedge
+  card: summary_large_image
+
+facebook:
+  app_id: ""
+  publisher: ""
+  admins: ""
+
+# Google Analytics (如需要)
+google_analytics: ""
+
+# 网站图标和logo
+logo: "/assets/images/omniedge-logo.png"
+favicon: "/assets/images/favicon.ico"
+
+# Open Graph 默认图片
+og_image: "/assets/seo/opengraph.png"
+
+# 构建设置
+encoding: utf-8
+future: true
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+permalink: pretty
+
+# 分页设置
+paginate: 10
+paginate_path: "/page:num/"
+
+# 默认值
+defaults:
+  - scope:
+      path: "docs"
+      type: "docs"
+    values:
+      layout: "docs"
+      sidebar: true
+  - scope:
+      path: "examples"
+      type: "examples"
+    values:
+      layout: "example"
+      sidebar: true
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+
+# 集合定义
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+  examples:
+    output: true
+    permalink: /:collection/:name/
+
+# 插件设置
+plugins_dir: _plugins
+layouts_dir: _layouts
+includes_dir: _includes
+data_dir: _data
+
+# 忽略文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - "*.pyc"
+  - "*.pyo"
+  - "*.pyd"
+  - ".git"
+  - ".gitignore"
+  - ".DS_Store"
+  - "*.log"
+  - "tmp/"
+  - "temp/"
+  - "*.pth"
+  - "*.pt"
+  - "*.pkl"
+  - "*.h5"
+
+# 白名单（即使被排除也会包含）
+include:
+  - _pages
+  - .htaccess
+
+# 开发服务器设置
+livereload: true
+incremental: false
+profile: false
+
+# SEO高级设置
+# 结构化数据
+webmaster_verifications:
+  google: ""
+  bing: ""
+  alexa: ""
+  yandex: ""
+  baidu: ""
+
+# 多语言设置
+lang_codes:
+  zh: "zh-CN"
+  en: "en-US"
+
+# 搜索引擎提交设置
+search_engine_submissions:
+  google: true
+  bing: true
+  baidu: true
+  yandex: true
