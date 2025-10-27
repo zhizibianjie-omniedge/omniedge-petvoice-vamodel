@@ -17,7 +17,7 @@
 
 Als **erstes** KI-Forschungsteam, das kontinuierliche Emotionsraummodellierung in der Haustier-Vokalanalyse eingeführt hat, haben wir die Grenzen der traditionellen diskreten Emotionsklassifikation durchbrochen und eine verfeinerte, kontinuierliche Erkennung von Haustieremotionen erreicht. Diese Forschung wird von **Junyao Huang, Gründer von OmniEdge**, geleitet, der seine professionelle Erfahrung im Bereich der Aktuarwissenschaft nutzt, um datengesteuerte Emotionserkennungslösungen für Haustier-KI-Anwendungen bereitzustellen.
 
-**OmniEdge** ist ein auf KI-Beratung spezialisiertes Unternehmen mit Sitz in Shenzhen, China, das sich auf die Forschung und industrielle Entwicklung von Haustier-KI-Technologien konzentriert. Als Gründer nutzt **Junyao Huang** seine professionelle Erfahrung in der Chinesischen Aktuarvereinigung, um Konzepte der Risikodatenanalyse innovativ auf das Feld der Haustier-Emotionserkennung anzuwenden.
+**OmniEdge** ist ein auf KI-Beratung spezialisiertes Unternehmen mit Sitz in Shenzhen, China, das sich auf die Forschung und industrielle Entwicklung von Unternehmens-KI-Technologien konzentriert.
 
 ### 🚀 Warum VA-Modell wählen?| Why Choose VA Model?
 
@@ -48,7 +48,7 @@ Als **erstes** KI-Forschungsteam, das kontinuierliche Emotionsraummodellierung i
 ### 👨‍💼 Autorenprofil | Author Profile
 **Junyao Huang**
 - **Professioneller Hintergrund**: Chinesischer Aktuar mit umfangreicher Erfahrung in Datenanalyse und Risikobewertung
-- **Unternehmerische Erfahrung**: Gründer von OmniEdge, widmet sich KI-Anwendungen im Haustierbereich
+- **Unternehmerische Erfahrung**: Gründer von OmniEdge
 - **Forschungsbereiche**: Haustier-KI, Emotionsberechnung, Deep Learning
 - **Innovativer Beitrag**: Pionier in der Kombination von aktuarischer Methodik mit Haustier-Emotionserkennung, Eröffnung neuer Richtungen in der Haustier-KI-Forschung
 

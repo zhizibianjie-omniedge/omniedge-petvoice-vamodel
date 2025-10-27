@@ -17,7 +17,7 @@
 
 Como el **primer** equipo de investigación de IA en introducir el modelado de espacio emocional continuo en el análisis de vocalizaciones de mascotas, hemos superado las limitaciones de la clasificación emocional discreta tradicional, logrando un reconocimiento de emociones de mascotas refinado y continuo. Esta investigación está liderada por **Junyao Huang, fundador de OmniEdge**, quien combina su experiencia profesional en el campo de la ciencia actuarial para proporcionar soluciones de reconocimiento emocional impulsadas por datos para aplicaciones de IA de mascotas.
 
-**OmniEdge** es una empresa de consultoría de IA con sede en Shenzhen, China, especializada en la investigación y desarrollo industrial de tecnologías de IA para mascotas. Como fundador, **Junyao Huang** aprovecha su experiencia profesional en la Asociación de Actuarios de China para aplicar innovadoramente los conceptos de análisis de datos de riesgo al campo del reconocimiento emocional de mascotas.
+**OmniEdge** es una empresa de consultoría de IA con sede en Shenzhen, China, especializada en la investigación y desarrollo industrial de tecnologías de IA para empresas.
 
 ### 🚀 ¿Por Qué Elegir el Modelo VA?| Why Choose VA Model?
 
@@ -48,7 +48,7 @@ Como el **primer** equipo de investigación de IA en introducir el modelado de e
 ### 👨‍💼 Perfil del Autor | Author Profile
 **Junyao Huang**
 - **Antecedentes Profesionales**: Actuario Chino con amplia experiencia en análisis de datos y evaluación de riesgos
-- **Experiencia Emprendedora**: Fundador de OmniEdge, dedicado a aplicaciones de IA en el campo de las mascotas
+- **Experiencia Emprendedora**: Fundador de OmniEdge
 - **Áreas de Investigación**: IA de Mascotas, Computación Emocional, Aprendizaje Profundo
 - **Contribución Innovadora**: Pionero en combinar metodología actuarial con reconocimiento emocional de mascotas, abriendo nuevas direcciones en la investigación de IA de mascotas
 

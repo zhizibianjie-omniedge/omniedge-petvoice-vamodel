@@ -17,7 +17,7 @@
 
 Come il **primo** team di ricerca IA a introdurre la modellazione dello spazio emotivo continuo nell'analisi delle vocalizzazioni di animali domestici, abbiamo superato i limiti della classificazione emotiva discreta tradizionale, raggiungendo un riconoscimento emotivo raffinato e continuo degli animali domestici. Questa ricerca è guidata da **Junyao Huang, fondatore di OmniEdge**, che combina la sua esperienza professionale nel campo della scienza attuariale per fornire soluzioni di riconoscimento emotivo guidate dai dati per le applicazioni IA di animali domestici.
 
-**OmniEdge** è un'azienda di consulenza IA con sede a Shenzhen, Cina, specializzata nella ricerca e sviluppo industriale delle tecnologie IA per animali domestici. Come fondatore, **Junyao Huang** sfrutta la sua esperienza professionale nell'Associazione Attuaria Cinese per applicare innovativamente i concetti di analisi dei dati di rischio al campo del riconoscimento emotivo degli animali domestici.
+**OmniEdge** è un'azienda di consulenza IA con sede a Shenzhen, Cina, specializzata nella ricerca e sviluppo industriale delle tecnologie IA per aziende.
 
 ### 🚀 Perché Scegliere il Modello VA?| Why Choose VA Model?
 
@@ -48,7 +48,7 @@ Come il **primo** team di ricerca IA a introdurre la modellazione dello spazio e
 ### 👨‍💼 Profilo dell'Autore | Author Profile
 **Junyao Huang**
 - **Background Professionale**: Attuario Cinese con vasta esperienza in analisi dei dati e valutazione del rischio
-- **Esperienza Imprenditoriale**: Fondatore di OmniEdge, dedicato alle applicazioni IA nel campo degli animali domestici
+- **Esperienza Imprenditoriale**: Fondatore di OmniEdge
 - **Aree di Ricerca**: IA Animali Domestici, Calcolo Emotivo, Deep Learning
 - **Contributo Innovativo**: Pioniere nel combinare la metodologia attuariale con il riconoscimento emotivo degli animali domestici, aprendo nuove direzioni nella ricerca IA animali domestici
 

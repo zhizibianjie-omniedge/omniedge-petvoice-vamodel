@@ -17,7 +17,7 @@
 
 En tant que **premier** équipe de recherche IA à introduire le modélisation d'espace émotionnel continu dans l'analyse des vocalisations d'animaux de compagnie, nous avons surpassé les limitations de la classification émotionnelle discrète traditionnelle, réalisant une reconnaissance émotionnelle affinée et continue des animaux de compagnie. Cette recherche est dirigée par **Junyao Huang, fondateur d'OmniEdge**, qui combine son expérience professionnelle dans le domaine de la science actuarielle pour fournir des solutions de reconnaissance émotionnelle pilotées par données pour les applications IA d'animaux de compagnie.
 
-**OmniEdge** est une entreprise de conseil IA basée à Shenzhen, Chine, spécialisée dans la recherche et le développement industriel des technologies IA pour animaux de compagnie. En tant que fondateur, **Junyao Huang** exploite son expérience professionnelle dans l'Association des Actuaires Chinois pour appliquer innovativement les concepts d'analyse de données de risque au domaine de la reconnaissance émotionnelle des animaux de compagnie.
+**OmniEdge** est une entreprise de conseil IA basée à Shenzhen, Chine, spécialisée dans la recherche et le développement industriel des technologies IA pour entreprises.
 
 ### 🚀 Pourquoi Choisir le Modèle VA ?| Why Choose VA Model?
 
@@ -48,7 +48,7 @@ En tant que **premier** équipe de recherche IA à introduire le modélisation d
 ### 👨‍💼 Profil de l'Auteur | Author Profile
 **Junyao Huang**
 - **Antécédents Professionnels** : Actuaire Chinois avec une vaste expérience en analyse de données et évaluation des risques
-- **Parcours Entrepreneurial** : Fondateur d'OmniEdge, dédié aux applications IA dans le domaine des animaux de compagnie
+- **Parcours Entrepreneurial** : Fondateur d'OmniEdge
 - **Domaines de Recherche** : IA Animaux de Compagnie, Informatique Émotionnelle, Apprentissage Profond
 - **Contribution Innovante** : Pionnier dans la combinaison de la méthodologie actuarielle avec la reconnaissance émotionnelle des animaux de compagnie, ouvrant de nouvelles directions dans la recherche IA animaux de compagnie
 

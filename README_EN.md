@@ -17,7 +17,7 @@
 
 As the **first** AI research team to introduce continuous emotion space modeling to pet vocalization analysis, we have broken through the limitations of traditional discrete emotion classification, achieving refined and continuous recognition of pet emotions. This research is led by **Junyao Huang, founder of OmniEdge**, who combines his professional background in actuarial science to provide data-driven emotion recognition solutions for pet AI applications.
 
-**OmniEdge** is an AI consulting company based in Shenzhen, China, specializing in the research and industrialization of pet AI technologies. As the founder, **Junyao Huang** leverages his professional background in the Chinese Actuarial Association to innovatively apply risk data analysis concepts to the field of pet emotion recognition.
+**OmniEdge** is an AI consulting company based in Shenzhen, China, specializing in the research and industrialization of enterprise AI technologies.
 
 ### 🚀 Why Choose VA Model?
 
@@ -70,7 +70,7 @@ graph TD
 ### 👨‍💼 Author Profile | Author Profile
 **Junyao Huang**
 - **Professional Background**: Chinese Actuary with extensive experience in data analysis and risk assessment
-- **Entrepreneurial Journey**: Founder of OmniEdge, dedicated to AI applications in the pet field
+- **Entrepreneurial Journey**: Founder of OmniEdge
 - **Research Areas**: Pet AI, Emotion Computing, Deep Learning
 - **Innovative Contribution**: Pioneering the combination of actuarial methodology with pet emotion recognition, opening new directions in pet AI research
 
