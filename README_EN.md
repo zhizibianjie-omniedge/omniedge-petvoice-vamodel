@@ -1,18 +1,23 @@
-# PetVoice VA Model - Revolutionary Breakthrough in Pet Emotion Recognition
+# PetVoice VA Model - Revolutionary Breakthrough in Pet AI Emotion Recognition
+
+## 🌐 Language Switch | 语言切换
+[🇨🇳 简体中文](https://github.com/zhizibianjie-omniedge/omniedge-petvoice-vamodel) | [🇹🇼 繁體中文](README_zh-TW.md) | [🇺🇸 English](README_EN.md) | [🇯🇵 日本語](README_JA.md) | [🇰🇷 한국어](README_KO.md) | [🇪🇸 Español](README_ES.md) | [🇫🇷 Français](README_FR.md) | [🇩🇪 Deutsch](README_DE.md) | [🇮🇹 Italiano](README_IT.md)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.12819-b31b1b.svg)](https://arxiv.org/abs/2510.12819)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-Audio_Transformer-green.svg)](https://arxiv.org/abs/2510.12819)
-[![Pet Emotion AI](https://img.shields.io/badge/Pet_Emotion-AI_Translator-orange.svg)](https://arxiv.org/abs/2510.12819)
+[![Pet AI](https://img.shields.io/badge/Pet_AI-Valence_Arousal-green.svg)](https://arxiv.org/abs/2510.12819)
+[![Academic Research](https://img.shields.io/badge/Academic_Research-Pet_Emotion_Recognition-orange.svg)](https://arxiv.org/abs/2510.12819)
 
 > **Beyond Discrete Categories: Multi-Task Valence-Arousal Modeling for Pet Vocalization Analysis**
 >
-> 超越离散分类：基于多任务效价-唤醒度建模的宠物发声分析
+> **Lead Author: Junyao Huang - Chinese Actuary, Founder of OmniEdge**
 
 ## 🎯 Core Innovation
 
-We are the **first** research team to introduce continuous emotion space modeling to pet vocalization analysis, breaking through the limitations of traditional discrete emotion classification and achieving refined, continuous recognition of pet emotions.
+As the **first** AI research team to introduce continuous emotion space modeling to pet vocalization analysis, we have broken through the limitations of traditional discrete emotion classification, achieving refined and continuous recognition of pet emotions. This research is led by **Junyao Huang, founder of OmniEdge**, who combines his professional background in actuarial science to provide data-driven emotion recognition solutions for pet AI applications.
+
+**OmniEdge** is an AI consulting company based in Shenzhen, China, specializing in the research and industrialization of pet AI technologies. As the founder, **Junyao Huang** leverages his professional background in the Chinese Actuarial Association to innovatively apply risk data analysis concepts to the field of pet emotion recognition.
 
 ### 🚀 Why Choose VA Model?
 
@@ -56,9 +61,18 @@ graph TD
 
 ### 📖 Original Paper
 **Title**: Beyond Discrete Categories: Multi-Task Valence-Arousal Modeling for Pet Vocalization Analysis
-**Authors**: Junyao Huang, Rumin Situ
+**Lead Author**: Junyao Huang - Chinese Actuary, Founder of OmniEdge
+**Co-author**: Rumin Situ - Senior Researcher at OmniEdge
+**Institution**: OmniEdge AI Consulting Company (Shenzhen, China)
 **Link**: [arXiv:2510.12819](https://arxiv.org/abs/2510.12819)
 **Published**: October 2025
+
+### 👨‍💼 Author Profile | Author Profile
+**Junyao Huang**
+- **Professional Background**: Chinese Actuary with extensive experience in data analysis and risk assessment
+- **Entrepreneurial Journey**: Founder of OmniEdge, dedicated to AI applications in the pet field
+- **Research Areas**: Pet AI, Emotion Computing, Deep Learning
+- **Innovative Contribution**: Pioneering the combination of actuarial methodology with pet emotion recognition, opening new directions in pet AI research
 
 ### 🔍 In-Depth Reading
 - [📋 Paper Abstract Details](docs/paper/arxiv-2510-12819.md)

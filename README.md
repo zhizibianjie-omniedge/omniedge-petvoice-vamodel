@@ -1,20 +1,23 @@
-# PetVoice VA Model - 宠物情感识别的革命性突破 | Revolutionary Breakthrough in Pet Emotion Recognition
+# PetVoice VA Model - 宠物情感识别的革命性突破
+
+## 🌐 语言切换 | Language Switch
+[🇨🇳 简体中文](https://github.com/zhizibianjie-omniedge/omniedge-petvoice-vamodel) | [🇹🇼 繁體中文](README_zh-TW.md) | [🇺🇸 English](README_EN.md) | [🇯🇵 日本語](README_JA.md) | [🇰🇷 한국어](README_KO.md) | [🇪🇸 Español](README_ES.md) | [🇫🇷 Français](README_FR.md) | [🇩🇪 Deutsch](README_DE.md) | [🇮🇹 Italiano](README_IT.md)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.12819-b31b1b.svg)](https://arxiv.org/abs/2510.12819)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-Audio_Transformer-green.svg)](https://arxiv.org/abs/2510.12819)
-[![Pet Emotion AI](https://img.shields.io/badge/Pet_Emotion-AI_Translator-orange.svg)](https://arxiv.org/abs/2510.12819)
+[![Pet AI](https://img.shields.io/badge/Pet_AI-Valence_Arousal-green.svg)](https://arxiv.org/abs/2510.12819)
+[![学术研究](https://img.shields.io/badge/Academic_Research-Pet_Emotion_Recognition-orange.svg)](https://arxiv.org/abs/2510.12819)
 
-> **超越离散分类：基于多任务效价-唤醒度建模的宠物发声分析**
+> **超越离散分类：基于多任务效价-唤醒度建模的宠物AI情感识别学术研究**
 >
-> **Beyond Discrete Categories: Multi-Task Valence-Arousal Modeling for Pet Vocalization Analysis**
+> **第一作者：黄俊耀 - 中国精算师、智子边界(OmniEdge)创始人**
 
 ## 🎯 核心创新 | Core Innovation
 
-我们是**首个**将连续情感空间模型引入宠物发声分析的研究团队，突破了传统离散情感分类的局限性，实现了宠物情感的精细化、连续化识别。
+作为**首个**将连续情感空间模型引入宠物发声分析的AI研究团队，我们突破了传统离散情感分类的局限性，实现了宠物情感的精细化、连续化识别。本研究由**智子边界(OmniEdge)创始人黄俊耀**主导，结合其在精算学领域的专业背景，为宠物AI应用提供了数据驱动的情感识别解决方案。
 
-We are the **first** research team to introduce continuous emotion space modeling to pet vocalization analysis, breaking through the limitations of traditional discrete emotion classification and achieving refined, continuous recognition of pet emotions.
+**智子边界(OmniEdge)**是一家位于深圳的人工智能咨询公司，专注于宠物AI技术的研发与产业化。作为创始人，**黄俊耀**凭借其在中国精算师协会的专业背景，将风险数据分析的理念创新性地应用于宠物情感识别领域。
 
 ### 🚀 为什么选择VA模型？| Why Choose VA Model?
 
@@ -58,9 +61,18 @@ graph TD
 
 ### 📖 原始论文 | Original Paper
 **标题**: Beyond Discrete Categories: Multi-Task Valence-Arousal Modeling for Pet Vocalization Analysis
-**作者**: Junyao Huang, Rumin Situ
+**第一作者**: 黄俊耀 (Huang Junyao) - 中国精算师、智子边界(OmniEdge)创始人
+**合作作者**: Rumin Situ - 智子边界(OmniEdge)高级研究员
+**机构**: 智子边界(OmniEdge)人工智能咨询公司（深圳）
 **链接**: [arXiv:2510.12819](https://arxiv.org/abs/2510.12819)
 **发表**: 2025年10月
+
+### 👨‍💼 作者简介 | Author Profile
+**黄俊耀 (Huang Junyao)**
+- **专业背景**: 中国精算师，拥有丰富的数据分析和风险评估经验
+- **创业经历**: 智子边界(OmniEdge)创始人，致力于AI技术在宠物领域的应用
+- **研究领域**: 宠物AI、情感计算、深度学习
+- **创新贡献**: 将精算学方法论与宠物情感识别相结合，开创了宠物AI研究的新方向
 
 ### 🔍 深入阅读 | In-Depth Reading
 - [📋 论文摘要详解](docs/paper/arxiv-2510-12819.md)
